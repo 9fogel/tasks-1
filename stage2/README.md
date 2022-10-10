@@ -136,6 +136,7 @@
 - [Проект: Presentation. Recorded & Online](modules/presentation)
 - [Модуль: Design Patterns](modules/design-patterns/)
 - [Модуль: "SCRUM, Kanban"](modules/scrum/)
+- [Подготовка к выполнению финального проекта](modules/final-task/)
 - [Модуль: CoreJS Interview #1](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/interview-basic-coreJS.md)
 
 <details>
@@ -147,8 +148,7 @@
 </details>
 
 ## Неделя #10. 16/08/2022
-- [Подготовка к выполнению финального проекта](modules/final-task/)
-- RS Lang. Разработка в командах 2-3 чел
+- [RS Lang](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/stage-2/rs-lang/rslang.md) / [RS Clone](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rsclone/rsclone.md) Разработка в командах 3 чел
 - [Модуль: CoreJS Interview #1](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/interview-basic-coreJS.md)
 
 <details>
@@ -165,8 +165,8 @@
 
 ## Неделя #11. 23/08/2022
 
-- RS Lang. Разработка в командах 2-3 чел
-- Модуль: How Browsers Work. Rendering Flow. - https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
+- [RS Lang](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/stage-2/rs-lang/rslang.md) / [RS Clone](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rsclone/rsclone.md) Разработка в командах 3 чел
+- [Module: how browsers work](modules/how-browsers-work/)
 - [Модуль: CoreJS Interview #2](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/interview-corejs.md)
 
 <details>
@@ -178,7 +178,7 @@
 
 ## Неделя #12. 30/08/2022
 
-- RS Lang. Разработка в командах 2-3 чел
+- [RS Lang](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/stage-2/rs-lang/rslang.md) / [RS Clone](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rsclone/rsclone.md) Разработка в командах 3 чел
 - [Модуль: CoreJS Interview #2](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/interview-corejs.md)
 
 <details>
@@ -200,7 +200,7 @@
 </details>
 
 ## Неделя #14. 13/09/2022
-- Презентация финального проекта 
+- [Презентация финального проекта](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/presentation/final-project-presentation.md)
 - Получение сертификата за Stage#2
 - Перерыв перед stage#3
 
